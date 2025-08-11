@@ -98,7 +98,9 @@ public class Request {
      * Sets the proxy for the request.
      */
     public Request proxy(String proxyTxt) {
-        this.setProxy(proxyTxt);
+        if (proxyTxt != null) {
+            this.setProxy(proxyTxt);
+        }
         return this;
     }
 
