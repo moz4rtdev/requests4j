@@ -2,7 +2,7 @@ package com.moz4rtdev.requests4j;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import com.moz4rtdev.requests4j.*;
+import com.github.moz4rtdev.requests4j.*;
 import java.io.IOException;
 import org.junit.jupiter.api.Test;
 

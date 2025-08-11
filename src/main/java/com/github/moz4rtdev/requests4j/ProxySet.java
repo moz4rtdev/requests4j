@@ -1,4 +1,4 @@
-package com.moz4rtdev.requests4j;
+package com.github.moz4rtdev.requests4j;
 
 import java.net.Authenticator;
 import java.net.InetSocketAddress;

@@ -1,4 +1,4 @@
-package com.moz4rtdev.requests4j;
+package com.github.moz4rtdev.requests4j;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;
