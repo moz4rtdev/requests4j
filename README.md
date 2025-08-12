@@ -13,7 +13,7 @@
 <dependency>
   <groupId>com.github.moz4rtdev</groupId>
   <artifactId>requests4j</artifactId>
-  <version>Tag</version> <!-- Replace with a release tag -->
+  <version>v0.2.0</version> <!-- Replace with a release tag -->
 </dependency>
 ```
 > [!IMPORTANT]
